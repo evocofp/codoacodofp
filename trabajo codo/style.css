@@ -1,0 +1,121 @@
+a.green-text {
+    color: rgb(28, 166, 28);
+}
+
+div.navbar-left {
+    margin-left: 50px;
+}
+
+div.navbar-right {
+    margin-right: 50px;
+}
+
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: sticky;
+}
+
+.carousel-item {
+    height: 600px;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+div .drk::after {
+    content: "";
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: block;
+    background: black; 
+    opacity: 2;  
+    z-index: 1;
+}
+
+.carousel-caption {
+    margin-left: 30%;
+    z-index: 2;
+}
+
+.carousel-caption h1 {
+    text-align: right;
+}
+
+.carousel-caption p {
+    text-align: right;
+} 
+.frase {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+.frase h1 {
+    margin-top: -10px;
+}
+
+.card {
+
+    width: 300px;
+    height: 150px;
+
+}
+
+p.white-text{
+    color: white;
+}
+
+h1.white-text{
+    color: white;
+}
+
+.hawaii-body {
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    text-align:left;
+
+}
+
+.frase {
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+.formulario {
+    text-align: center;
+    position: relative;
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-bottom: 20px
+}
+
+.dequehablar {
+    text-align: left;
+}
+
+
+.bg-dark {
+    background-color: #1e3859;
+}
+
+.navbar-center {
+    margin: auto;
+    background-color: #1e3859;
+    margin-top: 2%;
+    
+}
+
+.perrito {
+    margin-top: auto
+    
+}
